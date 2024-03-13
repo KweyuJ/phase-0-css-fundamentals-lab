@@ -1,5 +1,21 @@
-body {
+/* body {
   width: 100%;
   height: 100%;
   margin: 0;
+} */
+header{
+  text-align: center;
+}
+#featured-property{
+  text-align: center;
+}
+#details{
+  background-color: red;
+  display: flex;
+}
+#details div{
+  width: 25%;
+}
+body{
+  text-align: center;
 }
